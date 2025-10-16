@@ -1,0 +1,29 @@
+h1{
+    background-color: darkcyan; text-align: center;
+    text-shadow: 50px 60px 7px red;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    /* margin-top: 100px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    margin-left: 300px;
+     */
+     /* margin: 100px 200px 300px 100px; */
+     margin: 100px;
+     padding: 100px;
+     /* border: brown;
+     border-width: 5px;
+     border-style: dashed; */
+     border: 5px dotted blueviolet ;
+     outline: 10px dashed red;
+     outline-offset: 10px;
+     border-top: green;
+     border-top-right-radius: 10px;
+     border-radius: 50px;
+     box-shadow: 50px 70px 10px red;
+
+
+}
